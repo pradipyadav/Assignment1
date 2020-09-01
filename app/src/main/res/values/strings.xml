@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DemoAssignment</string>
+    <string name="select_date">Select Date</string>
+    <string name="customer_name">Enter Your Name</string>
+    <string name="close_and_cancel">Close and Cancel</string>
+    <string name="save">Save</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="search_here">Search here...</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="todo">TODO</string>
+    <string name="delete">Delete</string>
+</resources>
